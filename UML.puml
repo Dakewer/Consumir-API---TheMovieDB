@@ -1,6 +1,6 @@
 @startuml
 title Diagrama de Clases Movies
-class Usuario {
+class Cliente {
   +darElTitulo(): void
 }
 
@@ -19,10 +19,10 @@ class Movie {
   -idioma: String
   -posterPath: String
 }
-class TMDBClient {
+class ClienteTMDB {
   -baseUrl: String
   -token: String
-  +TMDBUsuario(token: String)
+  +ClienteTMDB(token: String)
   +buscaPeli(titulo: String): List<Movie>
 }
 
