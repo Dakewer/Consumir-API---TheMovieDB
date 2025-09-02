@@ -1,0 +1,11 @@
+@startuml
+actor Usuario
+participant "Aplicación (Front-End)" as App
+participant "API de TMDB" as TMDB
+
+Usuario -> App : Ingresa título de película
+App -> TMDB : Realiza solicitud GET (título de la película)
+TMDB -> App : Responde con lista de resultados en JSON
+App -> Usuario : Muestra resultados
+
+@enduml
