@@ -1,4 +1,5 @@
 @startuml
+title Diagrama de Clases Movies
 class Usuario {
   +darElTitulo(): void
 }
