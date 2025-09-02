@@ -23,7 +23,7 @@ class ClienteTMDB {
   -baseUrl: String
   -token: String
   +ClienteTMDB(token: String)
-  +buscaPeli(titulo: String): List<Movie>
+
 }
 Usuario --> MovieAPI
 MovieAPI --> Movie
