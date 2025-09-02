@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe25896-1713-454c-b5cb-e096f4edbac9" name="Changes" comment="" />
+    <list default="true" id="5fe25896-1713-454c-b5cb-e096f4edbac9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/UML.puml" beforeDir="false" afterPath="$PROJECT_DIR$/UML.puml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
       <workItem from="1756739876532" duration="1541000" />
       <workItem from="1756770162709" duration="1424000" />
       <workItem from="1756772149868" duration="483000" />
+      <workItem from="1756777271837" duration="341000" />
     </task>
     <servers />
   </component>

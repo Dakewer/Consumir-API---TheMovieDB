@@ -17,9 +17,14 @@ class Movie {
   -votosPromedio: float
   -cuentaDeVotos: int
   -idioma: String
+  -posterPath: String
+}
+class TMDBClient {
+  -baseUrl: String
+  -token: String
+  +TMDBUsuario(token: String)
+  +buscaPeli(titulo: String): List<Movie>
 }
 
-Usuario --> MovieAPI
-MovieAPI --> Movie
 
 @enduml
