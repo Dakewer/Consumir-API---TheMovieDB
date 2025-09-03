@@ -6,3 +6,5 @@ DAVID PÁEZ: Durante la creación de aplicaciónes es importante ir viendo con d
 
 JAIR AGUILAR:Lo que aprendí en esta tarea es algo muy esencial el trabajo en equipo. A mí me tocó identificar lo básico con lo que ya teníamos, pero viendo el diagrama de secuencia de mis compañeros y el código en Python pude organizar mejor mis ideas y realizar el UML de una buena manera. Así logré representar el flujo del sistema y darme cuenta de que con un buen diseño el código se vuelve más fácil de hacer. El diagrama de secuencia me dio más idea de lo que me faltaba, y al revisar el código pude complementar los últimos detalles.
 
+IAN RODRÍGUEZ: Estuvo bien poder volver a utilizar APIs, que en general JS es un lenguaje con el que no me siento cómodo por lo que practicar con
+el siempre es bueno. Considero que la actividad era bastante sencilla una vez vuelto a leer la documentación de fetch y repasando códigos viejos, ya teniendo el tema mucho más fresco. Fue interesante dialogar con mis compañeros respecto a como diseñar la solución, ya que todos tenemos visiones distintas y fue bueno poder intercambiar ideas.
